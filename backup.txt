@@ -1,0 +1,82 @@
+// Comandos de las sorpresas
+
+  // Gustavolt
+  if (message.content === 'L!S1') {
+    const attachment = new MessageAttachment('./Media/gustavolt.jpg');
+    message.channel.send('De: Gustavolt \nJefeee!! Felicidades por el mesiversario, en realidad yo te sigo desde mucho antes y para mi has sido un gran referente musical para mi formación como baterista, por eso es que espero que sean muchos meses màs los que te tengamos con nosotros por twich, youtube, discord, instagram y todas las plataformas habidas y por haber. Un saludo Jefe y vamos por más meses!!!!! sos lo màximo crrrrrrack!!!',attachment);
+  }
+
+  // Poker182TT
+  if (message.content === 'L!S2') {
+    const attachment = new MessageAttachment('./Media/Poker.jpg');
+    message.channel.send('De: Poker182TT \nUn mes más de música, juegos y risas, gracias a ti conocí personas increíbles y la cuarentena dejó de ser aburrida, te deseo lo mejor en este día y que no falten los shots! Te queremos Leo!', attachment);
+  }
+
+  // JohanYB-
+  if (message.content === 'L!S3') {
+    const attachment = new MessageAttachment('./Media/Johan.jpg');
+    message.channel.send('De: JohanYB- \nFeliz mesiversario patron, gracias por tanto, perdón por tan poco, literalmente por tan poco, mire mi dibujo xD que sean muchos meses más y arriba la comunidad Leosaider:)', attachment);
+  }
+
+  // señorlolicom
+  if (message.content === 'L!S4') {
+    const attachment = new MessageAttachment('./Media/loli1.jpg');
+    message.channel.send('De: señorlolicom \nGrande renzo por estos tonazos que nos estas dando en nuestros corazones  uwu', attachment);
+  }
+  if (message.content === 'L!S4') {
+    const attachment = new MessageAttachment('./Media/loli2.jpg');
+    message.channel.send(attachment);
+  }
+
+  // Marciana
+  if (message.content === 'L!S5') {
+    const attachment = new MessageAttachment('./Media/marci.jpg');
+    message.channel.send('De: Marciana \nRen!! Gracias por un mes más de este gran proyecto y familia de tonazo! Ya sabes que acá siempre estamos, para apoyarte en todo!! Gracias por todo crack', attachment);
+  }
+ 
+  // Crist
+  if (message.content === 'L!S6') {
+    const attachment = new MessageAttachment('./Media/cris.png');
+    message.channel.send('De: Crist \nFelicidades Leo! Los momentos de diversión que nos das vale mucho por lo menos para mí. Seguiré admirándote por tu talento y lo amable que eres con tu gentita ♡︎ Hamonos a por más', attachment);
+  }
+
+  // Valentina_2905
+  if (message.content === 'L!S7') {
+    message.channel.send('De: Valentina_2905 \nFelicitaciones por otro mes más, Renzo! Gracias por hacer que un mal día tenga como desenlace una risa por las locuras en Tonazoland. Sigue así, bro. Recuerda que somos la mejor comunidad de Twitch y discord. estaremos para usted en todo, Gracias por tanto patrón!');
+  }
+
+  // MedicenLu
+  if (message.content === 'L!S8') {
+    const attachment = new MessageAttachment('./Media/lu.jpg');
+    message.channel.send('De: MedicenLu \nGracias Ren por otro mes lleno de aventuras y diversion!!!', attachment);
+  }
+
+  // Dangerous
+  if (message.content === 'L!S9') {
+    message.channel.send('De: Dangerous \nLeo crack! gracias por tan buenos momentos en tan poco tiempo, disfrutar con la people es lo mejor, a la firme si es la comunidad mas chévere del internet. Felices cumplemes y que sigan viniendo más con buena gente y con la mejor música claro!!!!')
+  }
+
+  // ThePrussians
+  if (message.content === 'L!S10') {
+    message.channel.send('De: ThePrussians A.K.A. Elvectro \nMuchas felicidades Renzooo! :100: :Corazon: :TONAZO: 3 meses siendo el más crack y jefe de la mejor comunidad de toda discord y Twitch, desde el primer día de stream haz ayudado a cada uno de los miembros de esta comunidad a enfrentar mejor está cuarentena maldita. Hablo por todos al decir que estamos más que agradecidos por eso y por todos los momentos épicos. Vamos a por más meses! Felicidades crack!  :Corazon: :Ohhmevengoo: :TONAZO: :pepeOK:')
+  }
+
+  // twinkleofprincess
+  if (message.content === 'L!S11') {
+    message.channel.send('De: twinkleofprincess \nCraaaack!:Corazon: :Corazon: Feliz cumplemeess!! En tan poco tiempo haz logrado crear una comunidad tan chéveree!! Y la pasamos de la ptm, cada stream, que paja que te hayas animado a hacer esto en serioo, y qué podamos conectar contigo, eres un capo y que vengan muchos más!!!:Renzoshot: :Renzoshot:')
+  }
+
+  // Reikens
+  if (message.content === 'L!S12') {
+    message.channel.send('De: Reikens \nJefe,máquina,tifón,fiera, mastodonte, crack, Felicidades por estos meses de pura diversión y traiciones, espero que podamos seguir muchos más con la comunidagi y aún seguiré esperando la revancha en For honor :Kappa:. Psdt: Jerome vas a caer GAAAAA')
+  }
+
+  // Lil Miau
+  if (message.content === 'L!S13') {
+    message.channel.send('De: Lil Miau \ndios, maestro, sensei, feliz 3 meses, tus directos son lo máximo recien llevo unos días y me divierto mucho, exitos en todo');
+  }
+
+  // paolo_fardsd
+  if (message.content === 'L!S14') {
+    message.channel.send('De: paolo_fardsd \nBueno jefe, pues hace tres meses empezó una nueva travesía ewe de juegos, dirigido nada más y nada menos que por  uno de los músicos peruanos más influyentes de la nueva era;del siglo XXI, pocos artistas reconocidos como “artic monkeys” tuvieron el honor de compartir una chela con usted patrón y no me sorprendería saber que Matt Helders después de tomar unas cervezas,con usted, llegando a su casa llame a su mamá y le diga Tonazo, porque es un honor verlo y hablar con usted patrón, o conversar sobre el cancer en la comida, solo nos queda aprovechar sus meses haciendo streaming antes de que empiecen los conciertos en vivo :disappointed: pero bueno igual se lo vamos querer  crack !');
+  }
