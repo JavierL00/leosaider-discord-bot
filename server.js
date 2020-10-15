@@ -49,5 +49,5 @@ client.on('message', message => {
   }
 });
 
-client.login('NzU2NTc4MzU1MDMzNDA3NDg4.X2T4gA._4_MI7gJx3iG1X27GUYr-0DhkOU');
+client.login('NzU2NTc4MzU1MDMzNDA3NDg4.X2T4gA.cj7jouIOzBjtDioPtcJqC_5hoO8');
 // node server.js
